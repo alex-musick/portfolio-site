@@ -1,3 +1,3 @@
 # portfolio-site
 Website hosting my portfolio.
-Copyright (C) 2025, Alex Musick
+Copyright (C) 2026, Alex Musick
